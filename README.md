@@ -16,6 +16,6 @@ The processes are executed sequentially within the same virtual machine and memo
 
 
 This project consists of three distinctive parts:
-* The assembler: the program that will compile champions and translate them from the language you will write them in (assembly language) into “Bytecode”.
-* The virtual machine: the “arena” in which champions will be executed. It offers various functions, all of which will be useful for the battle of the champions.
-* The champion: your own super powerful champion.
+* *The assembler*: the program that will compile champions and translate them from the language you will write them in (assembly language) into “Bytecode”.
+* *The virtual machine*: the “arena” in which champions will be executed. It offers various functions, all of which will be useful for the battle of the champions.
+* *The champion*: your own super powerful champion.
